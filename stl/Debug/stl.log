@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  stl.cpp
+c:\users\mikolaj\documents\visual studio 2015\projects\stl\stl\stl.cpp(190): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikolaj\documents\visual studio 2015\projects\stl\stl\stl.cpp(238): warning C4101: 'filename': unreferenced local variable
+c:\users\mikolaj\documents\visual studio 2015\projects\stl\stl\stl.cpp(270): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mikolaj\documents\visual studio 2015\projects\stl\stl\stl.cpp(282): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mikolaj\documents\visual studio 2015\projects\stl\stl\stl.cpp(283): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mikolaj\documents\visual studio 2015\projects\stl\stl\stl.cpp(284): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  stl.vcxproj -> C:\Users\Mikolaj\Documents\Visual Studio 2015\Projects\stl\Debug\stl.exe
+  stl.vcxproj -> C:\Users\Mikolaj\Documents\Visual Studio 2015\Projects\stl\Debug\stl.pdb (Full PDB)

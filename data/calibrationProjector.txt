@@ -1,0 +1,7 @@
+1.98
+1.46
+0.1648
+0.058
+Calibration projector values report
+
+X Y Scale
